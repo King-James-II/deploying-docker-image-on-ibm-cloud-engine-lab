@@ -1,4 +1,4 @@
-# Hands-on Lab - Deploying Your First Docker Image on Code Engine
+# Lab - Deploying Your First Docker Image on Code Engine
 
 Tasks Accomplished:
 
